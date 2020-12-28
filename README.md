@@ -10,7 +10,7 @@ You need to install Node.js and have a discord bot token on this page : https://
 
 ## Installation
 
-Once you download the files and install node.js, make 'npm install' in the project folder. Then, go to the config.json file and add the asked informations
+Once you download the files and install node.js, make 'npm install' in the project folder. Then, go to the main.js file and add the asked informations
 ```javascript
   var prefix = ("!");
   bot.login("Your token here");
