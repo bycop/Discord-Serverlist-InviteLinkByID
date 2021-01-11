@@ -21,5 +21,4 @@ When you run the bot, the two commands are !serverlist and !invitestaff + Server
 
 Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
 Discord-Image-to-twitter : https://github.com/bycop/Discord-Image-to-twitter <br>
-Discord-Fivem-Playerlist : https://github.com/bycop/Discord-Fivem-Playerlist <br>
-Discord-Serverlist-InviteLinkByID : https://github.com/bycop/Discord-Serverlist-InviteLinkByID
+Discord-Fivem-Serverstats : https://github.com/bycop/Discord-Fivem-Serverstats
