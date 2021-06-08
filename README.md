@@ -17,6 +17,8 @@ Once you download the files and install node.js, make 'npm install' in the proje
 ```
 When you run the bot, the two commands are !serverlist and !invitestaff + ServerID. You can change the commands and restrict use for the bot owner only on main.js.
 
+Thanks to Cynthia for the update
+
 ## Others Bots
 
 Discord-global-chat : https://github.com/bycop/Discord-global-chat <br>
